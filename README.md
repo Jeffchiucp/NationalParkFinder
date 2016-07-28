@@ -10,10 +10,10 @@ You can change the images displayed on the app by adding/removing from `Images.x
 
 ## ScreenShots
 
-![MainView](https://cloudup.com/cVQayuK5_gO)
-![DetailView](https://cloudup.com/c0HV1_KLKNV)
-![EditOptionView](https://cloudup.com/iiXDyTPzMuH)
-![WikiView](https://cloudup.com/iWQZ1URMPf9)
+![MainView](https://cldup.com/zvNIPosrxl.png)
+![DetailView](https://cldup.com/0qYZbL3Ah2.png)
+![EditOptionView](https://cldup.com/coccIC83-s.png)
+![WikiView](https://cloudup.com/iiXDyTPzMuH)
 
 ## Contributing to this project
 If you have feature requests or bug reports, feel free to help out by sending pull requests or by [creating new issues](https://github.com/Jeffchiucp/NationalParkFinder/issues). 
