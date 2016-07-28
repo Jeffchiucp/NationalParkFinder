@@ -6,14 +6,14 @@
 
 ## Usage
 
-You can change the images displayed on the app by adding/removing from `Images.xcassets` and finally in `MainViewController.m`, update the instances of each city. 
+You can change the images displayed on the app by adding/removing from `Images.xcassets` and finally in `MainViewController.m`, update the instances of each National Park
 
 ## ScreenShots
 
 ![MainView](https://cldup.com/zvNIPosrxl.png)
 ![DetailView](https://cldup.com/0qYZbL3Ah2.png)
 ![EditOptionView](https://cldup.com/coccIC83-s.png)
-![WikiView](https://cloudup.com/iiXDyTPzMuH)
+![WikiView](https://cldup.com/Bg7PCX6XTa.png)
 
 ## Contributing to this project
 If you have feature requests or bug reports, feel free to help out by sending pull requests or by [creating new issues](https://github.com/Jeffchiucp/NationalParkFinder/issues). 
