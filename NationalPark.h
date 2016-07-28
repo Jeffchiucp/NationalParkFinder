@@ -2,9 +2,10 @@
 //  NationalPark.h
 //  NationalParkFinder
 //
-//  Created by Sam on 3/25/16.
-//  Copyright © 2016 Sam Willsea. All rights reserved.
+//  Created by Jeff on 6/25/16.
+//  Copyright © 2016 Jeff Chiu. All rights reserved.
 //
+
 
 #import <Foundation/Foundation.h>
 
